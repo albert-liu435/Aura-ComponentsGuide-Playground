@@ -20,5 +20,5 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 
 
-用户名：albert.liu435@empathetic-bear-fuyto2.com 密码：a1b2c3d4
+用户名：albert.liu435@empathetic-bear-fuyto2.com 密码：a1b2c3d4e5
 https://empathetic-bear-fuyto2-dev-ed.lightning.force.com/lightning/setup/SetupOneHome/home
