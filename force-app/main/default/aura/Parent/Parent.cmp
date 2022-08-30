@@ -1,0 +1,7 @@
+<!--c:parent-->
+<aura:component>
+    <aura:attribute name="parentAttr" type="String" default="parent attribute" />
+
+    <!-- Instantiate the child component -->
+    <c:Child childAttr="{!v.parentAttr}" />
+</aura:component>

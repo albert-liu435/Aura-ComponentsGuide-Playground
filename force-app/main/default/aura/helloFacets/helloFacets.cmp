@@ -1,0 +1,14 @@
+<!--c:helloFacets-->
+<aura:component>
+    See how we set the header facet.<br />
+
+    <c:facetHeader>
+
+        This is the component body for facetHeader.
+
+        <aura:set attribute="header">
+            Hello Header!
+        </aura:set>
+    </c:facetHeader>
+
+</aura:component>
